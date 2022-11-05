@@ -1,3 +1,11 @@
+<div id="header" align="center">
+
+# Animation Flow
+
+
+
 <p align="center">
-    <img src="GIF-200412_031831.gif" alt="Image"  />
+    <img src="video.gif" alt="Image"  />
 </p>
+
+</div>
